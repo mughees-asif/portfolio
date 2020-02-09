@@ -80,7 +80,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/mughees-asif/personal-portfolio')
+    fetch('https://api.github.com/repos/mughees-asif/portfolio')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -118,7 +118,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/mughees-asif/my-website"
+          href="https://github.com/mughees-asif/portfolio"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Adapted by Mughees.</div>
