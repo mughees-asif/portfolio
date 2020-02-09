@@ -20,6 +20,5 @@ export {
   Section,
   Footer,
   Heading,
-  Button,
-  InlineLink,
+  Button
 };
