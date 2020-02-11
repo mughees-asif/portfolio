@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Smart Brain'
+title: 'SmartBrain'
 cover: './facedetectapi.png'
 github: 'https://github.com/mughees-asif/smart_brain_frontEnd'
 external: 'http://smartbrain24.herokuapp.com/'

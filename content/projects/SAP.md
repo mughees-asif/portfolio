@@ -7,4 +7,4 @@ tech:
 showInProjects: true
 ---
 
-Developed by my team at Queen Mary, UoL. An effective solution to combat air pollution in London and forwarded for consideration at the Mayors Entrepreneur Award 2019 - UK.
+Developed by my team at Queen Mary, UoL. An effective solution to combat air pollution in London and forwarded for consideration at the Mayors Entrepreneur Award 2019 (London, UK). 
