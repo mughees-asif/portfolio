@@ -1,7 +1,7 @@
 ---
 date: '2019-04-01'
 title: 'Single-lever shifting system'
-external: 'https://www.linkedin.com/in/mugheesasif/detail/treasury/summary/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACQAEqMBnDP1tABMLO53AHulElhE5Q-TVPk%2C1542666547045)&section=summary&treasuryCount=4'
+external: 'https://www.dropbox.com/s/bik1pk6kowwxhtf/qmfs.jpg?dl=0'
 tech:
   - SolidWorks
 showInProjects: true
