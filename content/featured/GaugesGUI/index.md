@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Gauges GUI'
+title: 'DataAcquisitionViewer'
 cover: './qmfs1.png'
 github: 'https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI'
 tech:
