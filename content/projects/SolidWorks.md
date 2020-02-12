@@ -7,4 +7,4 @@ tech:
 showInProjects: true
 ---
 
-Developed a custom steering wheel and electronic clutch system for the Formula Student team.
+Developed a custom steering wheel and electronic clutch system for the resident Formula Student team.

@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Currently working on a personal project involving the assembly of an autonomous racing drone using the Raspberry Pi 4 (main controller of the drone), computer vision (integrated camera module allowing the drone to navigate) and the Kotlin programming language (mobile application for control).
+Currently working on a personal project involving the assembly of an autonomous racing drone using the Raspberry Pi 4 (main controller of the drone), computer vision (integrated camera module allowing the drone to navigate) and using Kotlin (mobile application for control).
