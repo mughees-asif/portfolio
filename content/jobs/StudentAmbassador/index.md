@@ -4,6 +4,7 @@ title: 'Engineering Student Ambassador'
 company: 'Engineering Dep.'
 location: 'London, UK'
 range: 'Oct. 18 - Current '
+url: 'https://www.sems.qmul.ac.uk/'
 ---
 
 - Meeting future students, local and international; explaining course structure and leading campus tours.
