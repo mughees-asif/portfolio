@@ -1,7 +1,7 @@
 ---
 date: '2018-09-24'
-title: 'Student Ambassador'
-company: 'Queen Mary Faculty of Engineering'
+title: 'Engineering Student Ambassador'
+company: 'Engineering Dep.'
 location: 'London, UK'
 range: 'Oct. 18 - Current '
 ---
