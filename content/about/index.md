@@ -6,11 +6,9 @@ skills:
   - JavaScript (ES6+)
   - Kotlin
   - React
-  - Python
   - Gatsby
   - HTML5 & CSS3
   - Node.js
-  - MATLAB
   - Express
 ---
 
