@@ -5,8 +5,7 @@ external: ''
 tech:
   - Kotlin
   - Raspberry Pi 4
-  - Python
-  - Computer vision
+  - OpenCV 
 showInProjects: true
 ---
 
