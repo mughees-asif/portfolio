@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Simple light-weight application with dynamic search.
+Light-weight project with dynamic search.
