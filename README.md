@@ -1,6 +1,6 @@
-<h1>Mughees's portfolio</h1>
+## Mughees's portfolio
 
-<p>Big Thank you to <a href="https://github.com/bchiang7/v4" target="_blank">Brittany Chiang</a> for the awesome template.</p>
+Big Thank you to [Brittany Chiang](https://github.com/bchiang7/v4) for the awesome template.</p>
 
 ## Getting Started
 
@@ -23,12 +23,12 @@
 1. Clone the repository
 
    ```
-   git clone https://github.com/dunky11/react-saas-template
+   git clone https://github.com/mughees-asif/portfolio
    ```
 2. Install dependencies, this can take a minute
 
    ```
-   cd react-saas-template
+   cd portfolio
    npm install
    ```
 3. Start the local server
