@@ -1,4 +1,4 @@
-## Personal portfolio
+# Personal portfolio
 
 Big Thank you to [Brittany Chiang](https://github.com/bchiang7/v4) for the awesome template.</p>
 
