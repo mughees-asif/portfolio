@@ -25,7 +25,7 @@ Big Thank you to [Brittany Chiang](https://github.com/bchiang7/v4) for the aweso
    ```
    git clone https://github.com/mughees-asif/portfolio
    ```
-2. Install dependencies, this can take a minute
+2. Install dependencies
 
    ```
    cd portfolio
