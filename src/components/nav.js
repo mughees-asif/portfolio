@@ -247,7 +247,7 @@ class Nav extends Component {
               <CSSTransition classNames={fadeClass} timeout={timeout}>
                 <StyledLogo tabindex="-1">
                   {isHome ? (
-                    <a href="/" aria-label="home">
+                    <a href="https://www.bymughees.com/" aria-label="home">
                       <IconLogo />
                     </a>
                   ) : (
