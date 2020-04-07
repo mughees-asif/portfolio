@@ -1,5 +1,5 @@
 ---
-date: '2021-01-01'
+date: '2018-11-01'
 title: 'Solar-powered Air Purifier'
 external: 'https://www.dropbox.com/s/tnb6n8k0h1f16tv/SAP.jpg?dl=0'
 tech:
