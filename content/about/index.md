@@ -4,11 +4,11 @@ avatar: './me.jpg'
 skills:
   - Java 
   - Python
-  - JavaScript (ES7+)
+  - JavaScript (ES6+)
   - Kotlin
   - React
   - Node.js
-  - Express
+  - GatsbyJS
   - Firebase
 ---
 
