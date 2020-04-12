@@ -4,7 +4,9 @@ title: 'Computer Science'
 external: 'https://www.coursera.org/'
 tech:
   - Discrete Maths
-  - Regression
+  - Calculus
+  - Linear Algebra
+  - Graph theory
 showInProjects: true
 ---
 
