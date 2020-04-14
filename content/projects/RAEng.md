@@ -1,7 +1,7 @@
 ---
 date: '2020-07-01'
 title: 'Scholarships'
-external: 'https://www.linkedin.com/pulse/engineering-leaders-scholarship-2020-mughees-asif-/'
+external: 'https://www.sems.qmul.ac.uk/news/5318/sems-student-mughees-asif-awarded-royal-academy-of-engineering-scholarships'
 tech:
   - Leadership
   - Tenacity
