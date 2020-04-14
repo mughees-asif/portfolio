@@ -1,6 +1,6 @@
 ---
-date: '2'
-title: 'astric'
+date: '4'
+title: 'astric*'
 cover: './astric.png'
 github: 'https://github.com/mughees-asif/astric'
 external: 'https://media.giphy.com/media/daV4z2HV9jNWvqnQxG/giphy.gif'
