@@ -6,7 +6,7 @@ tech:
   - Discrete Maths
   - Calculus
   - Linear Algebra
-  - Graph theory
+  - Graph Theory
 showInProjects: true
 ---
 
