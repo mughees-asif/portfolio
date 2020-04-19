@@ -1,5 +1,5 @@
 ---
-title: "Hi, the author's name and profession are"
+title: "Hi, this is"
 name: 'Mughees Asif'
 subtitle: 'Software Developer.'
 contactText: 'Enquiries'
