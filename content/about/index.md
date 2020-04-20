@@ -10,7 +10,7 @@ skills:
   - Node.js
   - GatsbyJS
   - Firebase
-  - Oracle Cloud Infrastructure (OCI)
+  - Git
   - PostgreSQL
 ---
 
