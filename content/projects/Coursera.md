@@ -1,7 +1,7 @@
 ---
 date: '2020-06-01'
 title: 'Computer Science'
-external: 'https://www.coursera.org/'
+external: 'https://github.com/mughees-asif/java-algorithms-datastructures'
 tech:
   - Discrete Maths
   - Calculus
