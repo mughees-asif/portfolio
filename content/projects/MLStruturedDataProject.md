@@ -1,7 +1,7 @@
 ---
 date: '2020-08-01'
 title: 'Machine Learning project'
-external: 'https://github.com/mughees-asif/heart-disease-project/blob/master/end-to-end-heart-disease-classification.ipynb'
+external: 'https://github.com/mughees-asif/machinlearning-heartdisease-project/blob/master/end-to-end-heart-disease-classification.ipynb'
 tech:
   - NumPy	
   - pandas
