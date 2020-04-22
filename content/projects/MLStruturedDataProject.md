@@ -1,6 +1,6 @@
 ---
 date: '2020-01-01'
-title: 'Heart Disease Detection using Machine Learning (ML) models'
+title: 'Machine Learning project'
 external: 'https://github.com/mughees-asif/heart-disease-project/blob/master/end-to-end-heart-disease-classification.ipynb'
 tech:
   - NumPy	
