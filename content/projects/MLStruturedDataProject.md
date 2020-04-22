@@ -1,7 +1,7 @@
 ---
 date: '2020-01-01'
 title: 'Heart Disease Detection using Machine Learning (ML) models'
-external: 'https://github.com/mughees-asif/machinelearning-datascience-projects'
+external: 'https://github.com/mughees-asif/heart-disease-project/blob/master/end-to-end-heart-disease-classification.ipynb'
 tech:
   - NumPy	
   - pandas
@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-In-progress. Milestone project focusing on developing a tuned ML model, using structured data, to classify heart disease triggers (Please check back end of April 2020 to see the published model).
+Predicting heart disease using Machine Learning.
