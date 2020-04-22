@@ -1,5 +1,5 @@
 ---
-date: '2020-01-01'
+date: '2020-08-01'
 title: 'Machine Learning project'
 external: 'https://github.com/mughees-asif/heart-disease-project/blob/master/end-to-end-heart-disease-classification.ipynb'
 tech:
