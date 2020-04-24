@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-Solving daily challenges on the HackerRank platform.
+Challenges solved in Java on the HackerRank platform.

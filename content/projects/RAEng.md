@@ -8,7 +8,7 @@ tech:
 showInProjects: true
 ---
 
-Awarded two scholarships for leadership potential and overcoming adverse circumstances to become an engineering role model from the Royal Academy of Engineering:
+Awarded two scholarships from the Royal Academy of Engineering for leadership potential and overcoming adverse circumstances to become an engineering role model:
 
 <ul style="list-style-type:disc;">
   <li>Engineering Leaders Scholarship (ELS)</li>
