@@ -1,7 +1,7 @@
 ---
 date: '2020-08-01'
 title: 'Machine Learning (ML) project'
-external: 'https://github.com/mughees-asif/machinlearning-heartdisease-project/blob/master/end-to-end-heart-disease-classification.ipynb'
+external: 'https://github.com/mughees-asif/machinelearning-projects#machine-learning-projects-using-structured-data'
 tech:
   - NumPy	
   - pandas
@@ -9,5 +9,4 @@ tech:
   - scikit-learn 
 showInProjects: true
 ---
-
-Predicting heart disease using structured data and ML. Milestone project from <b>Complete Machine Learning: Zero to Mastery</b> [<i>Udemy</i>] that complemented the theoretical knowledge gained from <b>Machine Learning</b> [<i>Coursera</i> | Stanford University].
+Machine learning models used on two classification problems.
