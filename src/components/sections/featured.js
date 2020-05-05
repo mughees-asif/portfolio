@@ -270,7 +270,6 @@ const Featured = ({ data }) => {
                     )}
                   </StyledLinkWrapper>
                 </StyledContent>
-
                 <StyledImgContainer
                   href={external ? external : github ? github : '#'}
                   target="_blank"
