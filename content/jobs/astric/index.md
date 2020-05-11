@@ -4,7 +4,7 @@ title: 'Mobile Application Developer'
 company: 'astric'
 location: 'London, UK'
 range: 'Mar. 20 - Ongoing'
-url: 'https://clever-noyce-16af34.netlify.app/'
+url: 'https://www.linkedin.com/company/astricapp/'
 ---
 
 - Using advanced JavaScript (React Native + Galio) to build a cross-platform mobile application.
