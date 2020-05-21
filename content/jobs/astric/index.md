@@ -7,5 +7,5 @@ range: 'Mar. 20 - Ongoing'
 url: 'https://www.linkedin.com/company/astricapp/'
 ---
 
-- Using advanced JavaScript (React Native + Galio) to build a cross-platform mobile application.
-- Developed the start-up landing page using GatsbyJS.
+- Using advanced React Native based on advanced JavaScript (ES6+) to build a cross-platform mobile application.
+- Deployed the start-up landing page using GatsbyJS.
