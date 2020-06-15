@@ -1,10 +1,10 @@
 # Personal portfolio
 
-Big Thank you to [Brittany Chiang](https://github.com/bchiang7/v4) for the awesome template.</p>
+* Big Thank you to [Brittany Chiang](https://github.com/bchiang7/v4) for the awesome template.</p>
 
 ## Getting Started
 
-### Prerequisites
+### Pre-requisites
 
 #### Node.js 12+ (versions below could work, but are not tested)
 
@@ -36,5 +36,3 @@ Big Thank you to [Brittany Chiang](https://github.com/bchiang7/v4) for the aweso
    ```
    npm start
    ```
-
-
