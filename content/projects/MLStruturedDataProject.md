@@ -1,12 +1,12 @@
 ---
 date: '2020-08-01'
-title: 'Machine Learning (ML) project'
+title: 'Machine Learning (ML) projects'
 external: 'https://github.com/mughees-asif/machinelearning-projects#machine-learning-projects-using-structured-data'
 tech:
   - NumPy	
   - pandas
-  - matplotlib
   - scikit-learn 
+  - TensorFlow
 showInProjects: true
 ---
-Machine learning models used on two classification problems.
+Machine learning models used on two classification problems and one computer vision solution.

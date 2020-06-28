@@ -4,5 +4,4 @@ name: 'Mughees Asif'
 subtitle: 'Software Developer.'
 contactText: 'Enquiries'
 ---
-
-Currently studies Aerospace Engineering (2<sup>nd</sup> year) at <a href="https://www.sems.qmul.ac.uk/">Queen Mary, University of London</a>. Originally, started programming as a hobby! However, the more he explores, the more he wants to <b>learn</b>! 
+Final-year Aerospace Engineering student at <a href="https://www.sems.qmul.ac.uk/">Queen Mary, University of London</a>. Originally, started programming as a hobby! However, the more I explore, the more I want to <b>learn</b>! 
