@@ -9,4 +9,4 @@ tech:
   - TensorFlow
 showInProjects: true
 ---
-Machine learning models used on two classification problems and one computer vision solution.
+Machine learning models used on classification and computer vision problems.
