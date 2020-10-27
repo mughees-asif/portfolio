@@ -7,5 +7,5 @@ range: 'Mar. - Jul. 20'
 url: 'astric.netlify.app'
 ---
 
-- Used React Native based on advanced JavaScript (ES6+) to build a cross-platform mobile application.
-- Deployed the start-up landing page using GatsbyJS.
+- Leveraged Google Maps API and React Native (JavaScript ES6+) to build a cross-platform mobile application.
+- Deployed the company website using GatsbyJS; improved web performance by 9%.
