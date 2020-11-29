@@ -5,9 +5,9 @@ cover: './logo.png'
 github: 'https://lnkd.in/eGmW7rd'
 external: 'https://lnkd.in/emrK5S5'
 tech:
-  - Java
-  - JavaScript
+  - Amazon Alexa skill
   - Twitter API
+  - Vue.js
 showInProjects: true
 ---
 
