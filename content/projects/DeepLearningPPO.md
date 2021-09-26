@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-Undergraduate thesis based on using the Proximal Policy Optimisation (PPO) algorithm to train an agent to balance an inverted double pendulum. I am under the supervision of <b><a target="_blank" href="https://www.sems.qmul.ac.uk/staff/a.nanjangud">Dr. Angadh Nanjangud</b></a>.
+Undergraduate thesis based on using the Proximal Policy Optimisation (PPO) algorithm to train an agent to balance an inverted double pendulum. Conducted under the supervision of <b><a target="_blank" href="https://www.sems.qmul.ac.uk/staff/a.nanjangud">Dr. Angadh Nanjangud</b></a>.

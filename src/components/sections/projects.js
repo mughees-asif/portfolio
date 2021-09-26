@@ -139,9 +139,9 @@ const Projects = ({ data }) => {
   }, []);
 
   const GRID_LIMIT = 6;
-  const projects = data.filter(({ node }) => node);
-  const firstSix = projects.slice(0, GRID_LIMIT);
-  const projectsToShow = showMore ? projects : firstSix;
+  //const projects = data.filter(({ node }) => node);
+  // const firstSix = projects.slice(0, GRID_LIMIT);
+  // const projectsToShow = showMore ? projects : firstSix;
 
   return (
     <StyledContainer>
