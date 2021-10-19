@@ -2,7 +2,7 @@
 date: '3'
 title: 'Data Acquisition Viewer'
 cover: './qmfs1.png'
-github: 'https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI'
+github: 'https://github.com/mughees-asif/qmfs-telemetry-gui'
 tech:
   - Java
 
